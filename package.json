@@ -1,0 +1,12 @@
+{
+  "name": "dev4u-node-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/frf/dev4u-node-server.git",
+  "author": "Fabio Rocha",
+  "license": "MIT",
+  "dependencies": {
+    "graphql-yoga": "^1.18.3",
+    "mongoose": "^5.9.24"
+  }
+}
